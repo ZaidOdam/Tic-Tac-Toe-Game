@@ -1,0 +1,2 @@
+rootProject.name = "Home-Delivery-App"
+include ':app'
